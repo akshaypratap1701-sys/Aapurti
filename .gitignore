@@ -1,1 +1,2 @@
-dist/\nnode_modules/\n
+dist/
+node_modules/
